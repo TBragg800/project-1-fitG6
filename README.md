@@ -4,7 +4,7 @@
 ## A fitness application submitted as project 1 for week 7 by Jared Varnum, Tammy Cuthbert and Thomas Bragg.
 
 * [Github Repository](https://github.com/TicTac2992/project-1-fitG6)
-* [Github Deployed Site](https://tictac2992.github.io/project-1-fitG6/)
+* [Github Deployed Site](https://tbragg800.github.io/project-1-fitG6/)
 
 ### Summary:
 This project utilizes HTML and CSS styles to build out a dashboard that offers the user a way to input goals and visualize these goals in a dynamically minipulated pie chart. We take use of multiple APIs and Third Party APIs to leverage the DOM in a manner that delivers the user data calculators for varity of health and wellness elements. The user has options to maintain a journal of persisting text through out the week by way of local storage and can offer emotional icons to generate a motivational quote. 
